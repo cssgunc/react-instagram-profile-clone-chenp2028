@@ -1,0 +1,12 @@
+.middle{
+    text-align: center;
+    padding-left: 100px;  
+}
+
+.line {
+    margin-left: 25%;
+    margin-right: 17%;
+    border-top: 1px solid lightgray;
+    margin-bottom: 0;
+    margin-top: auto;
+}

@@ -1,0 +1,65 @@
+.navbar {
+    background-color: #fff;
+    border-bottom: 1px solid #dbdbdb;
+    padding: 10px 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+body{
+    background-color: #D3D3D3;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.c1 {
+    display: flex;
+    align-items: center;
+    justify-content: start; 
+    padding-left: 20px;
+}
+
+.vertical-line {
+    border-left: 2px solid grey;
+    height: 25px; /* Match height of the icons */
+    margin-left: 10px;
+    margin-right: 10px; /* Adjust space between the line and the second icon */
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    background-color: #efefef;
+    border-radius: 8px;
+    padding: 5px;
+    width: 300px;
+}
+
+.search-bar input {
+    border: none;
+    background: transparent;
+    outline: none;
+    padding: 5px;
+    font-size: 14px;
+    width: 100%;
+}
+
+/* Header Icons */
+.header-icons a {
+    margin-left: 20px;
+}
+
+.header-icons img {
+    width: 25px;
+    height: 25px;
+}

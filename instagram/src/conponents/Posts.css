@@ -1,0 +1,9 @@
+.post{
+    display: flex;
+    height: 350px;
+}
+
+.post img {
+    width: 300px;
+    height: 300px;
+  }
