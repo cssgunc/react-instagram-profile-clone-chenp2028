@@ -53,7 +53,8 @@ Once you've completed your Instagram clone, make sure to review the requirements
 
 **PLEASE ADD A PHOTO/VIDEO OF YOUR FINAL PROJECT HERE!:**
 
-<img width="1409" alt="Screenshot 2024-12-08 at 2 44 31 PM" src="https://github.com/user-attachments/assets/d79ad05c-d239-4373-85fe-436c71382be3">
+<img width="1290" alt="Screenshot 2024-12-08 at 11 22 10 PM" src="https://github.com/user-attachments/assets/3c7e12b7-c5a9-4926-9fde-042e11882a3c">
+
 
 
 
